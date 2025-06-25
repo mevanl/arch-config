@@ -2,3 +2,5 @@ config-file = /home/mevanl/.cache/wal/colors-ghostty
 
 font-family = JetBrains Mono
 font-size = 18
+
+confirm-close-surface = false
